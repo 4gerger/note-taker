@@ -16,7 +16,7 @@ Please see below for the application's screenshot:
 
 Go to the following link: 
 
-
+https://github.com/4gerger/note-taker.git
 
 - Click on "Get Started" to get to the notes page
 - Type in the fields "Note Title" and "Note Text"
