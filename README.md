@@ -34,6 +34,4 @@ Try it out!
 - Bootstrap
 - CSS
 
-## Roadmap
 
-- Additional CSS styling can be added to the application
